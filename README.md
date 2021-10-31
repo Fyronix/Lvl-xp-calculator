@@ -1,4 +1,4 @@
-# mee6calc.xyz _(For [mee6.xyz](https://mee6.xyz)-powered servers)_
+# https://git.io/JPa1i _(For [mee6.xyz](https://mee6.xyz)-powered servers)_
 ![screenshot](http://i.imgur.com/nHu5NZF.png)
 Calculate how many more messages you need to send (for every minute) in order to reach a specific level!
 
